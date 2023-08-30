@@ -29,7 +29,7 @@ const name = OBJECT.name;
 const type = OBJECT.type;
 const value = OBJECT.value;
 */
-//Writing the above is equivalent to the destructuring assignment below
+//The above variables is equivalent to writing the destructuring assignment below
 
 const {name, type, value} = OBJECT;
 

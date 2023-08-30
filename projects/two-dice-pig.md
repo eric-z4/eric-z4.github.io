@@ -7,7 +7,7 @@ date: 2023-08-30
 published: false
 labels:
   - Java
-summary: "A simple game of two dice pig. "
+summary: "A simple game of two dice pig that I developed for an ICS 111 assignment"
 ---
 
 <div class="text-center p-4">

@@ -4,12 +4,12 @@ type: essay
 title: "Back to Basics in a New Perspective"
 # All dates must be YYYY-MM-DD format!
 date: 2023-28-08
-published: false
+published: true
 labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/back-to-basics/climbing-steps-upwards.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/back-to-basics/3-point-perspective.jpg">
 
 Back in high school, I attended some programming classes that taught basic programming skills, front-end web development, and a little bit of back-end development. One of the first programming languages I ever learned was Javascript, and it was what got me hooked on programming in general. During my time in high school, I wanted to explore other programming languages such as Python, Java, and C#. As a result, I remember trying to learn C#, but I got confused by the differences in syntax of C# compared to Javascript. One of the differences is that variables require a data type (e.g. int, char, etc.) to be specified rather than just using "var" or "let."
 

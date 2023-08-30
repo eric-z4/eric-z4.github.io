@@ -36,4 +36,4 @@ const {name, type, value} = OBJECT;
 console.log("My name is " + name + " and my type is " + type + ". I have a value of " + value);
 ```
 
-Regardless of what is similar or different between languages, I always felt that learning about these nuances has provided new perspetives on how to code.
+Regardless of what is similar or different between languages, I always felt that learning about these nuances has provided new perspectives on how to code.

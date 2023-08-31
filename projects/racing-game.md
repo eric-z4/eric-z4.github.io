@@ -19,7 +19,7 @@ summary: "A racing game that I made during my junior year in high school."
 
 ## About
 
-This was a personal project that I created in 2019 to experiment with [p5js](https://p5js.org/), a Javascript library that includes various creative tools, and to practice programming in Javascript. It is a minimalistic racing game where the player drives through the two courses (shown above) as fast as you can. There are no obstacles, no boosts, and no gimmicks; there is only the "car" and the finish line. 
+This was a personal project that I created in 2019 (along with Grid Snake) to experiment with [p5js](https://p5js.org/), a Javascript library that includes various creative tools, and to practice programming in Javascript. It is a minimalistic racing game where the player drives through the two courses (shown above) as fast as you can. There are no obstacles, no boosts, and no gimmicks; there is only the "car" and the finish line. 
 
 Since this project was made a few years ago, the code is not the most organized, polished, nor smart. Due to how I programmed the collision detection, there are a few places against the walls that will push the player in an unintended way (e.g. out of bounds). Nonetheless, the project was mostly intended for testing my programming knowledge at the time.
 

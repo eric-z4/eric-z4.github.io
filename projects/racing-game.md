@@ -12,7 +12,7 @@ labels:
 summary: "A racing game that I made during my junior year in high school."
 ---
 
-<img class="img-fluid" src="../img/racing-game/racing-game-full.png">
+<img width="600px" src="../img/racing-game/racing-game-full.png" class="img-thumbnail">
 
 ## About
 

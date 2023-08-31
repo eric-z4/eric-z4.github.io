@@ -12,6 +12,8 @@ labels:
 summary: "A racing game that I made during my junior year in high school."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/racing-game/racing-game-full.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/racing-game/racing-game-full.png">
+
+## About
+
+## Experience

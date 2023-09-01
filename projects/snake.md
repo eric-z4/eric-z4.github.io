@@ -22,4 +22,4 @@ With the exception of p5js, I developed the entire project on my own. I was able
 
 ## Experience
 
-When I created this project, I realized how much programming it takes to create a game. There is not only the gameplay that I have to worry about, but also 
+In the process of creating this project, I mostly learned how to utilize the p5js library. There are graphics for the grid, snake, and food, which come from functions in p5js such as rect() and ellipse().

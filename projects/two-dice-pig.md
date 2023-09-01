@@ -25,4 +25,6 @@ I was responsible for recreating two-dice Pig in Java with GUI elements. I used 
 
 ## Experience
 
-Before I did this assignment, the programs I developed mainly used a console or web browser to display its contents. The two-dice Pig game has helped me gain some experience using Java and designing GUIs with Java Swing. 
+Before I did this assignment, the programs I developed mainly used a console or web browser to display its contents. The two-dice Pig game has helped me gain some experience using Java and designing GUIs with Java Swing.
+
+Source: <a href="https://github.com/eric-z4/two-dice-pig"><i class="large github icon "></i>eric-z4/two-dice-pig</a>

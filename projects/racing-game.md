@@ -26,3 +26,5 @@ Since this project was made a few years ago, the code is not the most organized,
 ## Experience
 
 When I created this project, I realized how much programming it takes to create a game from scratch. Since I wanted to make freeform tracks, I also needed a way to program the collision for the walls of each track. I did this by finding the intersection of the four lines from the "car" (see left image) and the walls. By finding these intersections, I am basically finding the farthest point the "car" can go in the four directions.
+
+Source: <a href="https://github.com/eric-z4/racing-game"><i class="large github icon "></i>eric-z4/racing-game</a>

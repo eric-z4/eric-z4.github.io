@@ -23,3 +23,5 @@ With the exception of p5js, I developed the entire project on my own. I was able
 ## Experience
 
 In the process of creating this project, I mostly learned how to utilize the p5js library. There are graphics for the grid, snake, and food, which come from functions in p5js such as rect() and ellipse().
+
+Source: <a href="https://github.com/eric-z4/snake"><i class="large github icon "></i>eric-z4/snake</a>

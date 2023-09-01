@@ -22,4 +22,4 @@ With the exception of p5js, I developed the entire project on my own. I was able
 
 ## Experience
 
-I learned about 
+When I created this project, I realized how much programming it takes to create a game. There is not only the gameplay that I have to worry about, but also 

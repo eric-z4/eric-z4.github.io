@@ -21,3 +21,5 @@ This was a personal project that I created in 2019 (along with the racing game) 
 With the exception of p5js, I developed the entire project on my own. I was able to create the grid by using a double for loop to find the coordinates for the grid lines. For the snake body to follow the head, I used two arrays that kept track of their current x and y coordinates. Whenever the head moves, the coordinates of the closest body is assigned the head's previous position, and the coordinates of the following bodies are assigned the old position of the body in front of them. There are improvements to be made with the code, but I made this when I only had some experience with Javascript.
 
 ## Experience
+
+I learned about 

@@ -25,4 +25,5 @@ Since this project was made a few years ago, the code is not the most organized,
 
 ## Experience
 
-In the process of creating this project, I learned about the importance of modular design and how to utilize the p5js library. I wanted a way for me to quickly add in additional tracks, so I used an object to save the coordinates for walls of a course, draw them, and find collision points. The courses, along with the graphics of the "car," are all drawn using functions from p5js.
+
+

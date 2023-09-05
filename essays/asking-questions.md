@@ -10,7 +10,7 @@ labels:
   - Smart Questions
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/asking-questions/questions-img.jpg">
+<img width="350px" class="rounded float-start pe-4" src="../img/asking-questions/questions-img.jpg">
 
 ## Introduction
 

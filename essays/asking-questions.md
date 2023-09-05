@@ -18,7 +18,7 @@ Questions are important. They usually present an opportunity for someone to disc
 
 ## Asking "Smart" Questions
 
-To show what could be considered a smart question, I found a forum post on Stack Overflow, a forum for programmers, that asks why does "window.open(url, '_blank');" not open a new tab on IMac/Safari.
+To show what could be considered a smart question, I found a forum post on Stack Overflow, a forum for programmers, that asks why does `window.open(url, '_blank');` not open a new tab on IMac/Safari.
 
 ```
 Header: window.open(url, '_blank'); not working on iMac/Safari
@@ -59,24 +59,24 @@ myService.getUrl().then(function(url) {
 
 ## Asking "Not so Smart" Questions
 
-On the other hand, here is an example of a stupid question (also from Stack Overflow) that seeks a way to read a text file using Javascript Rhino. 
+On the other hand, here is an example of a stupid question (also from Stack Overflow) that seeks a way to read a text file using JavaScript Rhino. 
 
 ```
-Header: Read text file in Javascript Rhino
+Header: Read text file in JavaScript Rhino
 
-I am writing a code to read a local text file into my No Magic Cameo Systems Modeler. I am using Javascript Rhino for the same. But not getting any viable solution to read the text file.
+I am writing a code to read a local text file into my No Magic Cameo Systems Modeler. I am using JavaScript Rhino for the same. But not getting any viable solution to read the text file.
 
 I used Java's bufferedReader class but then I am getting the following error :
 
-"org.mozilla.javascript.EvaluatorException: missing ; before statement (#25)"
+"org.mozilla.JavaScript.EvaluatorException: missing ; before statement (#25)"
 
-Can anyone assist me in what I am doing wrong. I am fairly new to javascript .
+Can anyone assist me in what I am doing wrong. I am fairly new to JavaScript .
 ```
-[Link to the above post](https://stackoverflow.com/questions/71822558/read-text-file-in-javascript-rhino)
+[Link to the above post](https://stackoverflow.com/questions/71822558/read-text-file-in-JavaScript-rhino)
 
 # Analysis
 
-The header and the blatant "I am fairly new to javascript" makes it obvious that the asker is new to programming. There is nothing to imply that the asker has done any prior research or testing on how to "read \[a\] text file in Javascript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only recieved one actual answer, which simply points out a syntax error.
+The header and the blatant "I am fairly new to JavaScript" makes it obvious that the asker is new to programming. There is nothing to imply that the asker has done any prior research or testing on how to "read \[a\] text file in JavaScript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only recieved one actual answer, which simply points out a syntax error.
 
 ## Conclusion
 

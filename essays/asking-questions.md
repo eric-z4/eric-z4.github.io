@@ -41,7 +41,7 @@ Does anyone know why iMac/Safari won't do this?
 ```
 [Link to the above post](https://stackoverflow.com/questions/20696041/window-openurl-blank-not-working-on-imac-safari)
 
-# Analysis
+### Analysis
 
 The header of the post concisely specifies a function and an issue with said function. The asker proceeds to give background information such as the purpose for using "window.open" and what OS/browsers they have tested the code on. While they could be more specific on what browsers they used for testing, their question was sufficient enough to yield several answers such as the one below. The only major flaw with the post is that it has never selected a final answer. Due to this, it has receieved answers up to 2023 despite being posted in 2013.
 
@@ -74,7 +74,7 @@ Can anyone assist me in what I am doing wrong. I am fairly new to JavaScript .
 ```
 [Link to the above post](https://stackoverflow.com/questions/71822558/read-text-file-in-JavaScript-rhino)
 
-# Analysis
+### Analysis
 
 The header and the blatant "I am fairly new to JavaScript" makes it obvious that the asker is new to programming. There is little to imply that the asker has done any prior research or testing on how to "read \[a\] text file in JavaScript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only recieved one actual answer, which simply points out a syntax error.
 

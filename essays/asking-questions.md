@@ -4,7 +4,7 @@ type: essay
 title: "Asking smart questions rather than shallow ones"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-03
-published: false
+published: true
 labels:
   - Stack Overflow
   - Smart Questions
@@ -76,8 +76,8 @@ Can anyone assist me in what I am doing wrong. I am fairly new to JavaScript .
 
 # Analysis
 
-The header and the blatant "I am fairly new to JavaScript" makes it obvious that the asker is new to programming. There is nothing to imply that the asker has done any prior research or testing on how to "read \[a\] text file in JavaScript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only recieved one actual answer, which simply points out a syntax error.
+The header and the blatant "I am fairly new to JavaScript" makes it obvious that the asker is new to programming. There is little to imply that the asker has done any prior research or testing on how to "read \[a\] text file in JavaScript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only recieved one actual answer, which simply points out a syntax error.
 
 ## Conclusion
 
-People will inevitably have questions that they want answers for. 
+While asking questions is usually a good way to learn and improve, it requires other people to offer up their time and knowledge. There are various resources (e.g. books, websites, videos, etc.) that exist to provide answers to previously-asked questions. However, some questions might have never (or rarely) been brought up. By asking these unexplored questions in a smart way, others could spend their time learning something new or solving an obscure problem. This way, everyone in the community can benefit from a single question.

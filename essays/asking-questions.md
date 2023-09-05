@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Asking smart questions rather than shallow ones"
+title: "Asking Smart Questions Rather than Shallow Ones"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-03
 published: true

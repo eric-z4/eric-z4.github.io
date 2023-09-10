@@ -36,4 +36,4 @@ const {name, type, value} = OBJECT;
 console.log("My name is " + name + " and my type is " + type + ". I have a value of " + value);
 ```
 
-Regardless of what is similar or different between languages, I always felt that learning about these nuances has provided new perspectives on how to code.
+Regardless of what is similar or different between languages, I always felt that learning about these nuances has provided new perspectives on how to code. Each language has its own advantages, libraries, and syntax that might make it a better fit for a certain job (e.g. C/C++'s faster code execution, Java's various built-in classes, etc.).

@@ -43,7 +43,7 @@ Does anyone know why iMac/Safari won't do this?
 
 ### Analysis
 
-The header of the post concisely specifies a function and an issue with said function. The asker proceeds to give background information such as the purpose for using "window.open" and what OS/browsers they have tested the code on. While they could be more specific on what browsers they used for testing, their question was sufficient enough to yield several answers such as the one below. The only major flaw with the post is that it has never selected a final answer. Due to this, it has receieved answers up to 2023 despite being posted in 2013.
+The header of the post concisely specifies a function and an issue with said function. The asker proceeds to give background information such as the purpose for using "window.open" and what OS/browsers they have tested the code on. While they could be more specific on what browsers they used for testing, their question was sufficient enough to yield several answers such as the one below. The only major flaw with the post is that it has never selected a final answer. Due to this, it has received answers up to 2023 despite being posted in 2013.
 
 ```
 Safari is blocking any call to window.open() which is made inside an async call.
@@ -76,7 +76,7 @@ Can anyone assist me in what I am doing wrong. I am fairly new to JavaScript .
 
 ### Analysis
 
-The header and the blatant "I am fairly new to JavaScript" makes it obvious that the asker is new to programming. There is little to imply that the asker has done any prior research or testing on how to "read \[a\] text file in JavaScript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only recieved one actual answer, which simply points out a syntax error.
+The header and the blatant "I am fairly new to JavaScript" makes it obvious that the asker is new to programming. There is little to imply that the asker has done any prior research or testing on how to "read \[a\] text file in JavaScript Rhino." In addition, the grammatical inconsistencies (e.g. lack of commas, question needs question mark, etc.) suggests that the asker does not care to proofread his work. The post only received one actual answer, which simply points out a syntax error.
 
 ## Conclusion
 

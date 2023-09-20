@@ -18,4 +18,10 @@ If you have never heard of the term "spaghetti code," it refers to code that is 
 
 ## Why would I bother with coding standards if I am just coding for myself?
 
-Other than making code more legible, following coding standards can provide advantages such as practicing good coding habits. Using the [AirBnB JavaScript Style Guide](https://github.com/airbnb/javascript) as an example, one of the things that the guide recommends is to use `const` instead of `var` for all references by default ([Link to that section in the guide](https://github.com/airbnb/javascript#references)). As mentioned in the style guide, `const` prevents the variable's value from being changed intentionally or mistakenly when coding. If the value must be changed, the style guide suggests using `let` instead. 
+Other than making code more legible, following coding standards can provide advantages such as practicing good coding habits. Using the [AirBnB JavaScript Style Guide](https://github.com/airbnb/javascript) as an example, one of the things that the guide recommends is to use `const` instead of `var` for all references ([Link to that section in the guide](https://github.com/airbnb/javascript#references)). As mentioned in the style guide, `const` prevents the variable from being reassigned intentionally or mistakenly when coding. If the variable's value must change, it suggests using `let` instead. 
+
+As mentioned before, the coding standards outlined in the style guide are not the only way to write JavaScript. You could follow coding standards from multiple guides, assuming they pertain to the same programming language. Alternatively, you could even make up your own rules for writing code. However, coding standards are essential when collaborating with other software engineers since they ensure a "common look." If one collaborator decides to check someone else's code for bugs, they are able to easily understand where things are located and what they do.
+
+## Conclusion
+
+Organization is crucial, especially with larger and more complicated projects. Coding standards can help establish a pattern for software engineers to follow no matter how much the code may look like "spaghetti."

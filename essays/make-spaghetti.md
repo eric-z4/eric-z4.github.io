@@ -10,7 +10,7 @@ labels:
   - Coding Standard
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/back-to-basics/3-point-perspective.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/make-spaghetti/spaghetti.jpg">
 
 ## Introduction
 
@@ -24,4 +24,4 @@ As mentioned before, the coding standards outlined in the style guide are not th
 
 ## Conclusion
 
-Organization is crucial, especially with larger and more complicated projects. Coding standards can help establish a pattern for software engineers to follow no matter how much the code may look like "spaghetti."
+Organization is crucial, especially with larger and more complicated projects. Coding standards can help establish a pattern for software engineers to follow, even if there are many interrelated variables and functions. While coding standards are not required to make working programs, they will likely make code easier to read and understand overall.

@@ -18,7 +18,7 @@ Questions are important. They usually present an opportunity for someone to disc
 
 ## Asking "Smart" Questions
 
-To show what could be considered a smart question, I found a forum post on Stack Overflow, a forum for programmers, that asks why does `window.open(url, '_blank');` not open a new tab on IMac/Safari.
+To show what could be considered a smart question, I found a [forum post](https://stackoverflow.com/questions/20696041/window-openurl-blank-not-working-on-imac-safari) on Stack Overflow, a forum for programmers, that asks why does `window.open(url, '_blank');` not open a new tab on IMac/Safari.
 
 ```
 Header: window.open(url, '_blank'); not working on iMac/Safari
@@ -39,7 +39,6 @@ This works fine on Windows 7 for all the browsers, including Safari.
 On an iMac it works for Firefox but not for Safari.
 Does anyone know why iMac/Safari won't do this?
 ```
-[Link to the above post](https://stackoverflow.com/questions/20696041/window-openurl-blank-not-working-on-imac-safari)
 
 ### Analysis
 
@@ -59,7 +58,7 @@ myService.getUrl().then(function(url) {
 
 ## Asking "Not so Smart" Questions
 
-On the other hand, here is an example of a stupid question (also from Stack Overflow) that seeks a way to read a text file using JavaScript Rhino. 
+On the other hand, [here is an example of a stupid question](https://stackoverflow.com/questions/71822558/read-text-file-in-JavaScript-rhino) (also from Stack Overflow) that seeks a way to read a text file using JavaScript Rhino. 
 
 ```
 Header: Read text file in JavaScript Rhino
@@ -72,7 +71,6 @@ I used Java's bufferedReader class but then I am getting the following error :
 
 Can anyone assist me in what I am doing wrong. I am fairly new to JavaScript .
 ```
-[Link to the above post](https://stackoverflow.com/questions/71822558/read-text-file-in-JavaScript-rhino)
 
 ### Analysis
 

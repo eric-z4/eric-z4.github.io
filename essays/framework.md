@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Why Start With a Framework Rather Than From Scratch"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-30
-published: false
+date: 2023-10-01
+published: true
 labels:
   - UI Design
   - HTML
@@ -15,7 +15,7 @@ labels:
 
 ## Introduction
 
-On websites and web applications, people would usually be greeted with a user interface (UI). UIs allow people to see and interact with a given website or application. For instance, a store may have a website that shows what they are selling and provides a way to buy them online. Software engineers are typically responsible for creating UIs when designing a website or web app, but UI design can be tedious and complicated. An important thing to keep in mind with UI design is that there are various browsers (Chrome, FireFox, etc.), OSes (Windows, Linux, etc.), and devices (laptops, phones, and so on). Why is this important? As an example of a reason, a UI may work fine on a computer screen, but it can also be squished and unusable on a phone. To solve this issue, a software engineer could design a UI that adjusts for different screen sizes or create different UIs for each device.
+On websites and web applications, people would usually be greeted with a user interface (UI). UIs allow people to see and interact with a given website or application. For instance, a store may have a website that shows what they are selling and provides a way to buy them online. Software engineers are typically responsible for creating UIs when designing a website or web app, but UI design can be tedious and complicated. An important thing to keep in mind with UI design is that there are various browsers (Chrome, FireFox, etc.), OSes (Windows, Linux, etc.), and devices (laptops, phones, and so on). Why is this important? As an example of a reason, a UI may work fine on a computer screen but also be unusable on a phone. To solve this issue, a software engineer could design a UI that adjusts for different screen sizes or create different UIs for each device.
 
 ## What is a UI Framework?
 
@@ -37,7 +37,8 @@ As practice, I made a [simplified recreation](https://github.com/eric-z4/okims-u
 
 While UI frameworks can help with UI design, there are limitations to UI customization. In the case of Bootstrap, its [classes for modifying the padding or margin](https://getbootstrap.com/docs/5.3/utilities/spacing/#margin-and-padding) of an element (i.e. `p-1`, `px-2`, `m-3`, etc.) only goes up to a size of 5, which is `3rem`, or 3 times the font size of the root element, by default. To have sizes bigger than `3rem`, you have to make your own CSS class that changes the padding or margin.
 
-Furthermore, a UI framework may not include components that utilize "native" features (i.e. Siri on mobile devices). The framework could still be used to create the general layout of a website or web app, but things like using Siri for voice-controlled interactions must be developed separately.
+Furthermore, a UI framework might not include components that utilize "native" features (e.g. Siri on mobile devices). The framework could still be used to create the general layout of a website or web app, but things like using Siri for voice-controlled interactions must be developed separately.
 
 ## Conclusion
 
+UI frameworks are a helpful tool for software engineers to put together a user interface. They include components and utilities generally used in UIs, while more specialized UI elements are left for the software engineer to develop. Although using a UI framework can seem restrictive compared to creating a UI from scratch, there is little to suggest you are only required to use things from the framework to design an intuitive user interface.

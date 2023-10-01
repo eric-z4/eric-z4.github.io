@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/framework/ui-elements.jpg">
+<img width="450px" class="rounded float-start pe-4" src="../img/framework/ui-elements.jpg">
 
 ## Introduction
 
@@ -29,9 +29,9 @@ Besides faster UI design, some frameworks, such as Bootstrap and Metro UI, are d
 
 As practice, I made a [simplified recreation](https://github.com/eric-z4/okims-using-bootstrap) of the [O'kim's Korean Kitchen website](https://www.okimshawaii.com/) using Bootstrap. Below are a few screenshots of the bootstrap version of the website.
 
-<img width="350px" class="img-thumbnail" src="../img/framework/okims-bootstrap-home-page.png">
-<img width="350px" class="img-thumbnail" src="../img/framework/okims-bootstrap-menu-page.png">
-<img width="350px" class="img-thumbnail" src="../img/framework/okims-bootstrap-order-page.png">
+<img width="400px" class="img-thumbnail" src="../img/framework/okims-bootstrap-home-page.png">
+<img width="400px" class="img-thumbnail" src="../img/framework/okims-bootstrap-menu-page.png">
+<img width="400px" class="img-thumbnail" src="../img/framework/okims-bootstrap-order-page.png">
 
 ## The Disadvantages of Using a UI Framework
 

@@ -27,12 +27,12 @@ Admins monitor the gallery and can delete any inappropriate posts and comments.
 The gallery will initially show the most recent artworks. Users can filter for specific artworks (e.g. sculptures, digital art, hand-drawn, etc.) or user’s artworks. Alternatively, they could sort by date, alphabetically, or usernames.
 
 Possible mockup pages include:
-*Landing page
-*User landing page
-*User posts page
-*Add art page
-*Art Gallery page
-*View post page
+* Landing page
+* User landing page
+* User posts page
+* Add art page
+* Art Gallery page
+* View post page
 
 ## Use Case Ideas
 

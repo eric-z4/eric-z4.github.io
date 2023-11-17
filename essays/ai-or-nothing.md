@@ -24,7 +24,7 @@ Would AI have helped me solve my problem faster? I can not say for sure. An AI c
 
 ## The Impact of AI
 
-Despite my experience, I can say that AI certainly has its uses in practical applications. One notable example is (the development of a robot with an AI that could extract oxygen from water on Mars)[https://www.smithsonianmag.com/smart-news/a-robotic-ai-chemist-could-make-oxygen-on-mars-180983268/]. The AI can identify elements in rock samples to create a catalyst that can break down water into oxygen. As mentioned in the article, the robot's algorithm was able to determine "3.7 million possible molecules to break down water and form oxygen" out of five meteorites in a few weeks. A process that would have taken approximately 2,000 years for a human to determine.
+Despite my experience, I can say that AI certainly has its uses in practical applications. One notable example is [the development of a robot with an AI that could extract oxygen from water on Mars](https://www.smithsonianmag.com/smart-news/a-robotic-ai-chemist-could-make-oxygen-on-mars-180983268/). The AI can identify elements in rock samples to create a catalyst that can break down water into oxygen. As mentioned in the article, the robot's algorithm was able to determine "3.7 million possible molecules to break down water and form oxygen" out of five meteorites in a few weeks. A process that would have taken approximately 2,000 years for a human to determine.
 
 ## Conclusion
 

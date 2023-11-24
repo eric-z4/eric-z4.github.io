@@ -22,4 +22,4 @@ Another way to think about a design pattern is as a blueprint for a house. This 
 
 ## Conclusion
 
-When developing a solution for a common problem, a design pattern often gives a versatile template for creating one. Due to the generality of design patterns, they are reusable in different situations. As an example, the Factory pattern may be used to write a function that creates "car" or "cheese" objects with their corresponding properties (e.g. name, type, etc.). 
+When developing a solution for a common problem, a design pattern often gives a versatile template for creating one. Due to the generality of design patterns, they are reusable in different situations. As an example, the Factory pattern may be used to write a function that creates "car" or "cheese" objects with their corresponding properties (e.g. name, type, etc.). This pattern, among [other patterns for JavaScript and Node.js](https://www.patterns.dev/), promotes ways to reuse or modularize code, which is especially crucial in developing large web applications.

@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/reusability/blueprint-image.jpg">
+<img width="430px" class="rounded float-start pe-4" src="../img/reusability/blueprint-image.jpg">
 
 ## Introduction
 

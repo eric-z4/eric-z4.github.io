@@ -11,7 +11,7 @@ labels:
   - Frameworks
 ---
 
-<img width="430px" class="rounded float-start pe-4" src="../img/tools-for-job/software-toolbox.png">
+<img width="415px" class="rounded float-start pe-4" src="../img/tools-for-job/software-toolbox.png">
 
 ## Introduction
 

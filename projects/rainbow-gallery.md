@@ -12,9 +12,9 @@ summary: "An ICS 314 web application project for posting and sharing artistic wo
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/rainbow-gallery/home-page.png" class="img-thumbnail">
-  <img width="300px" src="../img/rainbow-gallery/posts.png" class="img-thumbnail">
-  <img width="300px" src="../img/rainbow-gallery/search-page.png" class="img-thumbnail">
+  <img width="400px" src="../img/rainbow-gallery/home-page.png" class="img-thumbnail">
+  <img width="400px" src="../img/rainbow-gallery/posts.png" class="img-thumbnail">
+  <img width="400px" src="../img/rainbow-gallery/search-page.png" class="img-thumbnail">
 </div>
 
 ## About

@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "Building Blocks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-draft: true
 labels:
   - Software Engineering
   - Learning

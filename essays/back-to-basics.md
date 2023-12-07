@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "Back to Basics in a New Perspective"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-draft: true
 labels:
   - JavaScript
 ---

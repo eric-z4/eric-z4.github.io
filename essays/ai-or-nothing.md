@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "AI or Nothing"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-15
-draft: true
 labels:
   - Software Engineering
   - AI

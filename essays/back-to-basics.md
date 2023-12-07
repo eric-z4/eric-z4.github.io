@@ -4,7 +4,7 @@ type: essay
 title: "Back to Basics in a New Perspective"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
-published: true
+draft: true
 labels:
   - JavaScript
 ---

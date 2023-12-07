@@ -4,7 +4,7 @@ type: essay
 title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-30
-published: true
+draft: true
 labels:
   - Software Engineering
   - Meteor

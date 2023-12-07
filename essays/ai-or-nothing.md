@@ -4,7 +4,7 @@ type: essay
 title: "AI or Nothing"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-15
-published: true
+draft: true
 labels:
   - Software Engineering
   - AI

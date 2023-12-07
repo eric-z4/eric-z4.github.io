@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Back to Basics in a New Perspective | Eric Zhou | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/eric-z4.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Eric Zhou | Professional Portfolio">
+    <meta property="og:url" content="https://eric-z4.github.io/essays/back-to-basics.html">
+    <meta property="og:title" content="Back to Basics in a New Perspective | Eric Zhou | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/eric-z4.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Back to Basics in a New Perspective | Eric Zhou | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Eric Zhou</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Back to Basics in a New Perspective</h1>
+  <span class="date">29 Aug 2023</span>
+  <hr>
+  <p><img width="200px" class="rounded float-start pe-4" src="../img/back-to-basics/3-point-perspective.jpg" /></p>
+
+<p>Back in high school, I attended some programming classes that taught basic programming skills, front-end web development, and a little bit of back-end development. One of the first programming languages I ever learned was JavaScript, and it was what got me hooked on programming in general. During my time in high school, I wanted to explore other programming languages such as Python, Java, and C#. As a result, I remember trying to learn C#, but I got confused by the differences in syntax of C# compared to JavaScript. One of the differences is that variables require a data type (e.g. <code class="language-plaintext highlighter-rouge">int</code>, <code class="language-plaintext highlighter-rouge">char</code>, etc.) to be specified rather than just using <code class="language-plaintext highlighter-rouge">var</code> or <code class="language-plaintext highlighter-rouge">let</code>.</p>
+
+<p>To my younger self, Python, Java, and C# were almost like learning a second language (as in the languages we speak and write with). Eventually, I decided to study the other programming languages as if I never programmed before. What is a variable? What is a function/method? How do you make a loop? These were a handful of questions I asked myself that made me realize that these programming languages, JavaScript included, are not so different. Even if they are written differently, they can be used to more or less achieve the same outcome, like printing out “Hello World!”</p>
+
+<p>Of course, there are still some additional features that may be unique or new to certain languages. For instance, ES6 (ECMAScript), the most recent version of JavaScript, introduces destructuring, which provides a concise way of assigning object properties to variables. I had only learned about it a few days ago, but it would have been useful for making my code look neater. For those who are not familiar with destructuring, here is a brief example of what it is:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const OBJECT = {
+  name: "foo",
+  type: "bar",
+  value: 25
+};
+
+/*
+const name = OBJECT.name;
+const type = OBJECT.type;
+const value = OBJECT.value;
+*/
+//The above variables is equivalent to writing the destructuring assignment below
+
+const {name, type, value} = OBJECT;
+
+console.log("My name is " + name + " and my type is " + type + ". I have a value of " + value);
+</code></pre></div></div>
+
+<p>Regardless of what is similar or different between languages, I always felt that learning about these nuances has provided new perspectives on how to code. Each language has its own advantages, libraries, and syntax that might make it a better fit for a certain job (e.g. C/C++’s faster code execution, Java’s various built-in classes, etc.).</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

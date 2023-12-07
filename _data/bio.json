@@ -1,0 +1,51 @@
+{
+  "basics": {
+    "name": "Eric Zhou",
+    "label": "Student",
+    "picture": "https://github.com/eric-z4.png",
+    "email": "ericzhou@hawaii.edu",
+    "phone": "808-393-5943",
+    "website": "https://eric-z4.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also pursuing a Creative Computational Media (CCM) Certificate. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "eric-z4", "url": "https://github.com/eric-z4" },
+      { "network": "linkedin", "username": "ericzhou", "url": "https://www.linkedin.com/in/eric-zhou-76700028a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Game Development" },
+    { "name": "Digital Art" },
+    { "name": "Software Engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript", "C", "C++", "Java", "Meteor", "React", "Bootstrap" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

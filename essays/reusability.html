@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="A Lesson in Reusability | Eric Zhou | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/eric-z4.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Eric Zhou | Professional Portfolio">
+    <meta property="og:url" content="https://eric-z4.github.io/essays/reusability.html">
+    <meta property="og:title" content="A Lesson in Reusability | Eric Zhou | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/eric-z4.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>A Lesson in Reusability | Eric Zhou | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Eric Zhou</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">A Lesson in Reusability</h1>
+  <span class="date">23 Nov 2023</span>
+  <hr>
+  <p><img width="430px" class="rounded float-start pe-4" src="../img/reusability/blueprint-image.jpg" /></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>If you ever took the time to have a closer look at things, you will notice that our roofs, cars, bags, and other such things typically follow design patterns. There are different types of roofs, such as gable roofs, shed, flat, and so on; cars have an assortment of body types like a sedan or pickup truck; and bags have various designs for people to carry things in different manners (e.g. backpacks, purses, duffel bags, etc.). These design patterns do not define exact measurements or specifications. Instead, they describe a general template used to solve a particular, common problem. For instance, there are a variety of backpacks with different shapes, sizes, features, colors, etc., but they all allow people to carry things on their backs.</p>
+
+<h2 id="in-software-engineering">In Software Engineering</h2>
+
+<p>Another way to think about a design pattern is as a blueprint for a house. This blueprint contains instructions for building the house but leaves the width, length, and height up to the architects to determine. The blueprint can be used to create a set of homes that perfectly fit in a city block. What I just described is a <a href="https://www.patterns.dev/vanilla/factory-pattern">Factory pattern</a> in software engineering, in which a function can make multiple objects with similar properties but different values (e.g. many users with different usernames). This pattern is prevalent in the design of <a href="https://react-bootstrap.netlify.app/docs/components/buttons">React Bootstrap components</a>. For instance, multiple Button components can be created simply by writing <code class="language-plaintext highlighter-rouge">&lt;Button /&gt;</code> several times (after importing it from the react-bootstrap framework). These Buttons can be individually altered by changing their properties like <code class="language-plaintext highlighter-rouge">variant="warning"</code> to make them yellow or <code class="language-plaintext highlighter-rouge">size="lg"</code> to make them big.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>When developing a solution for a common problem, a design pattern often gives a versatile template for creating one. Due to the generality of design patterns, they are reusable in different situations. As an example, the Factory pattern may be used to write a function that creates “car” or “cheese” objects with their corresponding properties (e.g. name, type, etc.). This pattern, among <a href="https://www.patterns.dev/">other patterns for JavaScript and Node.js</a>, promotes ways to reuse or modularize code, which is especially crucial in developing large web applications.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

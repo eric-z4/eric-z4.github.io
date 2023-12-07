@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Untitled Racing Game | Eric Zhou | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/eric-z4.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Eric Zhou | Professional Portfolio">
+    <meta property="og:url" content="https://eric-z4.github.io/projects/racing-game.html">
+    <meta property="og:title" content="Untitled Racing Game | Eric Zhou | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/eric-z4.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Untitled Racing Game | Eric Zhou | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Eric Zhou</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Untitled Racing Game</h1>
+ <div class="text-center p-4">
+  <img width="500px" src="../img/racing-game/racing-game-full.png" class="img-thumbnail" />
+  <img width="500px" src="../img/racing-game/racing-game-full-alt.png" class="img-thumbnail" />  
+</div>
+
+<h2 id="about">About</h2>
+
+<p>This was a personal project that I created in 2019 (along with Grid Snake) to experiment with <a href="https://p5js.org/">p5js</a>, a Javascript library that includes various creative tools, and to practice programming in Javascript. It is a minimalistic racing game where the player drives through the two courses (shown above) as fast as you can. There are no obstacles, no boosts, and no gimmicks; there is only the “car” and the finish line.</p>
+
+<p>Since this project was made a few years ago, the code is not the most organized, polished, nor smart. Due to how I programmed the collision detection (using functions from <a href="https://github.com/bmoren/p5.collide2D">p5.collide2D</a>, there are a few places against the walls that will push the player in an unintended way (e.g. out of bounds). Nonetheless, the project was mostly intended for testing my programming knowledge at the time.</p>
+
+<h2 id="experience">Experience</h2>
+
+<p>When I created this project, I realized how much programming it takes to create a game from scratch. Since I wanted to make freeform tracks, I also needed a way to program the collision for the walls of each track. I did this by finding the intersection of the four lines from the “car” (see left image) and the walls. By finding these intersections, I am basically finding the farthest point the “car” can go in the four directions.</p>
+
+<p>Source: <a href="https://github.com/eric-z4/racing-game"><i class="large github icon "></i>eric-z4/racing-game</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

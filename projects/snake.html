@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Grid Snake | Eric Zhou | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/eric-z4.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Eric Zhou | Professional Portfolio">
+    <meta property="og:url" content="https://eric-z4.github.io/projects/snake.html">
+    <meta property="og:title" content="Grid Snake | Eric Zhou | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/eric-z4.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Grid Snake | Eric Zhou | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Eric Zhou</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Grid Snake</h1>
+ <p><img class="img-fluid" src="../img/snake/snake-full.png" /></p>
+
+<h2 id="about">About</h2>
+
+<p>This was a personal project that I created in 2019 (along with the racing game) to experiment with <a href="https://p5js.org/">p5js</a>, a Javascript library that includes various creative tools, and to practice programming in Javascript. The game involves a snake (the green boxes) that never stops moving. As the snake, the player must navigate around the grid to collect food (the yellow boxes) and avoid crashing into a wall or their body.</p>
+
+<p>With the exception of p5js, I developed the entire project on my own. I was able to create the grid by using a double for loop to find the coordinates for the grid squares. For the snake body to follow the head, I used two arrays that kept track of their current x and y coordinates. Whenever the head moves, the coordinates of the closest body is assigned the head’s previous position, and the coordinates of the following bodies are assigned the old position of the body in front of them. There are improvements to be made with the code, but I made this when I only had some experience with Javascript.</p>
+
+<h2 id="experience">Experience</h2>
+
+<p>In the process of creating this project, I mostly learned how to utilize the p5js library. There are graphics for the grid, snake, and food, which come from functions in p5js such as rect() and ellipse().</p>
+
+<p>Source: <a href="https://github.com/eric-z4/snake"><i class="large github icon "></i>eric-z4/snake</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Why Start With a Framework Rather Than From Scratch | Eric Zhou | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/eric-z4.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Eric Zhou | Professional Portfolio">
+    <meta property="og:url" content="https://eric-z4.github.io/essays/framework.html">
+    <meta property="og:title" content="Why Start With a Framework Rather Than From Scratch | Eric Zhou | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/eric-z4.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Why Start With a Framework Rather Than From Scratch | Eric Zhou | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Eric Zhou</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Why Start With a Framework Rather Than From Scratch</h1>
+  <span class="date">01 Oct 2023</span>
+  <hr>
+  <p><img width="450px" class="rounded float-start pe-4" src="../img/framework/ui-elements.jpg" /></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>On websites and web applications, people would usually be greeted with a user interface (UI). UIs allow people to see and interact with a given website or application. For instance, a store may have a website that shows what they are selling and provides a way to buy them online. Software engineers are typically responsible for creating UIs when designing a website or web app, but UI design can be tedious and complicated. An important thing to keep in mind with UI design is that there are various browsers (Chrome, Firefox, etc.), OSes (Windows, Linux, etc.), and devices (laptops, phones, and so on). Why is this important? As an example of a reason, a UI may work fine on a computer screen but also be unusable on a phone. To solve this issue, a software engineer could design a UI that adjusts for different screen sizes or create different UIs for each device.</p>
+
+<h2 id="what-is-a-ui-framework">What is a UI Framework?</h2>
+
+<p>A UI framework is a library that features components and utilities for designing a user interface, like buttons, containers, menus, and other things. <a href="https://getbootstrap.com/">Bootstrap</a>, <a href="https://korzh.com/metroui">Metro UI</a>, and <a href="https://get.foundation/index.html">Foundation</a> are some examples of a UI framework. These frameworks are used to create UIs more quickly and easily through CSS classes. Like in Bootstrap, a <a href="https://getbootstrap.com/docs/5.3/components/buttons/#toggle-states">toggle button</a> can be made without writing any CSS or JavaScript like so:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;button type="button" class="btn" data-bs-toggle="button"&gt;Toggle button&lt;/button&gt;
+</code></pre></div></div>
+
+<p>Besides faster UI design, some frameworks, such as Bootstrap and Metro UI, are developed “mobile-first.” In other words, the framework’s components are made with mobile devices in mind, which will adjust accordingly to different screen sizes. This puts less work on software engineers and allows them to focus on designing a creative user interface.</p>
+
+<p>As practice, I made a <a href="https://github.com/eric-z4/okims-using-bootstrap">simplified recreation</a> of the <a href="https://www.okimshawaii.com/">O’kim’s Korean Kitchen website</a> using Bootstrap. Below are a few screenshots of the bootstrap version of the website.</p>
+
+<p><img width="400px" class="img-thumbnail" src="../img/framework/okims-bootstrap-home-page.png" />
+<img width="400px" class="img-thumbnail" src="../img/framework/okims-bootstrap-menu-page.png" />
+<img width="400px" class="img-thumbnail" src="../img/framework/okims-bootstrap-order-page.png" /></p>
+
+<h2 id="the-disadvantages-of-using-a-ui-framework">The Disadvantages of Using a UI Framework</h2>
+
+<p>While UI frameworks can help with UI design, there are limitations to UI customization. In the case of Bootstrap, its <a href="https://getbootstrap.com/docs/5.3/utilities/spacing/#margin-and-padding">classes for modifying the padding or margin</a> of an element (i.e. <code class="language-plaintext highlighter-rouge">p-1</code>, <code class="language-plaintext highlighter-rouge">px-2</code>, <code class="language-plaintext highlighter-rouge">m-3</code>, etc.) only goes up to a size of 5, which is <code class="language-plaintext highlighter-rouge">3rem</code>, or 3 times the font size of the root element, by default. To have sizes bigger than <code class="language-plaintext highlighter-rouge">3rem</code>, you have to make your own CSS class that changes the padding or margin.</p>
+
+<p>Furthermore, a UI framework might not include components that utilize “native” features (e.g. Siri on mobile devices). The framework could still be used to create the general layout of a website or web app, but things like using Siri for voice-controlled interactions must be developed separately.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>UI frameworks are a helpful tool for software engineers to put together a user interface. They include components and utilities generally used in UIs, while more specialized UI elements are left for the software engineer to develop. Although using a UI framework can seem restrictive compared to creating a UI from scratch, there is little to suggest you are only required to use things from the framework to design an intuitive user interface.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

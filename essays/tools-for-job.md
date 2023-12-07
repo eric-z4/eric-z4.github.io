@@ -27,5 +27,5 @@ A framework refers to a library that contains objects and utilities typically us
 
 ## Conclusion
 
-As shown, both IDEs, frameworks, and likely other software concepts are essential for any software development. IDEs and frameworks provide numerous tools for software engineers, which would be better than using something like Notepad to code everything from the ground up. While I have used these tools for web application development, I could also use them for any project in the future.
+As shown, both IDEs, frameworks, and likely other software concepts are essential for any software development. IDEs and frameworks provide numerous tools for software engineers, which would be better than using something like Notepad to code everything from the ground up. While I have used these tools for web application development, I could also use them for any future projects.
 

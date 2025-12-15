@@ -6,7 +6,7 @@
     "email": "ericzhou@hawaii.edu",
     "phone": "808-393-5943",
     "website": "https://eric-z4.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also pursuing a Creative Computational Media (CCM) Certificate. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also pursuing a Creative Computational Media (CCM) Certificate. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "eric-z4", "url": "https://github.com/eric-z4" },
@@ -20,32 +20,60 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Javascript", "C", "C++", "Java", "Meteor", "React", "Bootstrap" ]
+      "name": "Languages",
+      "keywords": [ "Assembly", "C", "C++", "Java", "JavaScript/TypeScript", "HTML/CSS", "Python" ]
+    },
+    {
+      "name": "Frameworks/Libraries",
+      "keywords": [ "Meteor", "React", "Bootstrap", "Next.js" ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [ "Git/GitHub", "IntelliJ", "Visual Studio", "Unity", "Godot", "Maya", "Blender", "Krita", "Toon Boom Harmony" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Information & Computer Science (expected Fall, 2025)",
       "studyType": "B.A.",
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
+        "ICS 485: Video Game Design",
+        "ICS 312: Machine Level & Systems Programming",
+        "ICS 332: Operating Systems",
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Creative Computational Media (expected Fall, 2025)",
+      "studyType": "Certificate",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "courses": [
+        "ICS 484: Data Visualization",
+        "ICS 486: Virtual & Augmented Reality Programming",
+        "ICS 369: Computational Media Systems",
+        "CINE 317: 3D Lighting, Camera & Rendering",
+        "CINE 316: 3D Animation"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2021-Present",
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2021-2025",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    }
-  ],
-  "references": [
+      "summary": "Scholarship automatically awarded to first-year, degree-seeking students who enroll at UH Mānoa in the semester following the completion of their high school diploma and have demonstrated outstanding academic achievement."
+    },
     {
-      "name": "Available upon request"
+      "title": "B+ Scholarship",
+      "date": "2021-2025",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarship awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ]
 }

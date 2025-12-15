@@ -19,7 +19,7 @@ jobs:
       - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\bio.json$"
-      - uses: helaili/jekyll-action@2.5.0    # Choose any one of the Jekyll Actions
+      - uses: helaili/jekyll-action@4.4.1    # Choose any one of the Jekyll Actions
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'

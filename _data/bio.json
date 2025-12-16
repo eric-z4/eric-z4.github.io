@@ -21,15 +21,15 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Assembly", "C", "C++", "Java", "JavaScript/TypeScript", "HTML/CSS", "Python" ]
+      "keywords": [ "Assembly (x86)", "C", "C++", "Java", "JavaScript/TypeScript", "HTML/CSS", "Python" ]
     },
     {
       "name": "Frameworks/Libraries",
-      "keywords": [ "Meteor", "React", "Bootstrap", "Next.js" ]
+      "keywords": [ "Next.js", "d3js", "React", "Meteor", "Bootstrap" ]
     },
     {
       "name": "Toolsets",
-      "keywords": [ "Git/GitHub", "IntelliJ", "Visual Studio", "Unity", "Godot", "Maya", "Blender", "Krita", "Toon Boom Harmony" ]
+      "keywords": [ "Git/GitHub", "Visual Studio", "IntelliJ", "Unity", "Godot", "Maya", "Blender", "Krita", "Toon Boom Harmony" ]
     }
   ],
   "education": [

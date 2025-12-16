@@ -4,7 +4,7 @@ type: project
 image: img/snake/snake-logo.png
 title: "Grid Snake"
 date: 2019-04-24
-published: true
+published: false
 labels:
   - Game Development
   - Javascript

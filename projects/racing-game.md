@@ -4,7 +4,7 @@ type: project
 image: img/racing-game/racing-game-snippet.png
 title: "Untitled Racing Game"
 date: 2019-07-18
-published: true
+published: false
 labels:
   - Game Development
   - Javascript

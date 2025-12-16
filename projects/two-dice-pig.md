@@ -4,7 +4,7 @@ type: project
 image: img/two-dice-pig/two-dice.jpg
 title: "Two-dice Pig"
 date: 2021-11-11
-published: true
+published: false
 labels:
   - Java
 summary: "A simple game of two dice pig that I developed for an ICS 111 assignment"

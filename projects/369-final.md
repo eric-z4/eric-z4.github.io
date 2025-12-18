@@ -22,7 +22,7 @@ This was my final project for ICS 369, which was made and rendered in [Maya](htt
 
 ICS 369 was where I used scripts to animate for the first time. I also extensively utilized classes and first-class functions in my particle system script to have customizable emitters and forces. For instance, I can set the amount of objects an emitter emits per frame, how long it will emit for, what the particle's polygon/model will be, the area that particles can spawn in, and so on. 
 
-Below is the emitter class and all the properties that can be set.
+Below is a snippet showing the emitter class and all the properties that can be set.
 
 {% gist bcad1fbf27ee64e3d7c68fc8c55a9dca %}
 

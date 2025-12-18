@@ -12,10 +12,10 @@ labels:
 summary: "A simple \"Hole in the Wall\" game recreated on the UH CyberCANOE."
 ---
 
-<div class="container">
+<div class="container my-4">
 	<div class="row">
 		<div class="col-sm">
-			<img src="../img/hole-in-canoe/scene.png" class="img-fluid">
+			<img src="../img/hole-in-canoe/scene.png" class="img-fluid h-100">
 		</div>
 		<div class="col-sm">
 			<img src="../img/hole-in-canoe/walls_wip.png" class="img-fluid">  

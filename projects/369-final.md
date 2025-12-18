@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/369-final/clip1.png
 title: "ICS 369 Final Project"
-date: 2025-4-11
+date: 2025-11-4
 published: true
 labels:
   - Python

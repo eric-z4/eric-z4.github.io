@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rainbow-gallery/logo.png
 title: "Talking Hands"
-date: 2025-9-20
+date: 2025-20-9
 published: false
 labels:
   - Unity

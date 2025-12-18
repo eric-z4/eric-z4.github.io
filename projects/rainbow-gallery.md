@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rainbow-gallery/logo.png
 title: "Rainbow Gallery"
-date: 2023-12-6
+date: 2023-6-12
 published: true
 labels:
   - Javascript

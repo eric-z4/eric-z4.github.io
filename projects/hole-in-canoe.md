@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rainbow-gallery/logo.png
 title: "Hole in the Canoe"
-date: 2025-10-27
+date: 2025-27-10
 published: false
 labels:
   - Unity

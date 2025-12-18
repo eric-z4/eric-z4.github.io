@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/gradgraph/gradgraph_img1.png
 title: "GradGraph"
-date: 2025-10-24
+date: 2025-24-10
 published: true
 labels:
   - Typescript

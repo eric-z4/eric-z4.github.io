@@ -21,6 +21,6 @@ summary: "A data visualization of the degrees awarded by three UH campuses from 
 
 ## Experience
 
-This was my first time using several different tools and libraries. Other than Apache ECharts and Plotly, I used [Next.js](https://nextjs.org/) as the framework for the website and deployed it on [Vercel](https://vercel.com/docs). Additionally, I also used [d3js](https://d3js.org/) to parse the CSV and generate the colors seen on the sankey. 
+This was my first time using several different tools and libraries. Other than Apache ECharts and Plotly, [Next.js](https://nextjs.org/) was used as the framework for the website, which was deployed on [Vercel](https://vercel.com/docs). Additionally, I also used [d3js](https://d3js.org/) to parse the CSV and generate the colors seen on the sankey. 
 
 Source: <a href="https://github.com/eric-z4/gradgraph"><i class="large github icon "></i>eric-z4/gradgraph</a>

@@ -4,7 +4,7 @@ type: project
 image: img/talking-hands/talking_hand_screenshot.png
 title: "Talking Hands"
 date: 2025-20-9
-published: false
+published: true
 labels:
   - Unity
   - Augmented Reality

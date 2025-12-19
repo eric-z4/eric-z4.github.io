@@ -33,9 +33,14 @@ See below for a video of Hole in the Canoe and the CyberCANOE itself:
 	<source src="HoleInTheCanoe_Video.mp4" type="video/mp4">
 </video>
 
-In this [Unity](https://unity.com/products/unity-engine#engine-faq) project, I was responsible for setting up the wall movement, wall spawner, score system, player projection, music & sound effects (found on [Freesound](https://freesound.org/) and [OpenGameArt](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=12&sort_by=count&sort_order=DESC)), and collision behavior. The [CC project template](https://github.com/doctorspiffy/CC_CANOE/blob/main/CCinstructions2025-09-09.pdf) was used as a base, and to allow the project to utilize the stereoscopic 3D of the CyberCANOE. Vive tracking was eventually implemented to the CC project by Christian Siador, who is a graduate research assistant in the LAVA lab.
+In this [Unity](https://unity.com/products/unity-engine#engine-faq) project, I was responsible for setting up the wall movement, wall spawner, score system, player projection, music & sound effects (found on [Freesound](https://freesound.org/) and [OpenGameArt](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=12&sort_by=count&sort_order=DESC)), and collision behavior. The [CC project template](https://github.com/doctorspiffy/CC_CANOE/blob/main/CCinstructions2025-09-09.pdf) was used as a base, and to allow the project to utilize the stereoscopic 3D of the CyberCANOE. Vive tracking was eventually implemented to the CC project by Christian Siador, who is a graduate research assistant in the LAVA lab, which was used to control the hands and head of the player.
 
 ## Experience
 
+Working with a 3D display was a new experience for me because I was not able to view my project in 3D without the CyberCANOE and 3D glasses.
 
+Below is what is shown while playing the game in the Unity Editor at home:
 
+<img src="../img/hole-in-canoe/game_over_sbs.png" class="img-fluid">
+
+While I could use the [cross-eye method](https://www.kula3d.com/how-to-use-the-cross-eyed-method) to (sort of) view the game in 3D, I could not test the player's movements without the vive trackers. This resulted in the walls being too low, which made the poses awkward or impossible to do (as seen in the above video). Let this be a lesson to myself to test things on the target platform more often.  

@@ -30,15 +30,25 @@ The limited hand tracking of the Quest 3/3S made it difficult to implement certa
 
 <div class="container mx-2">
 	<img src="../img/talking-hands/R.png" class="img-fluid">
-	<img src="../img/talking-hands/U.png" class="img-fluid">  
-	<img src="../img/talking-hands/M_N.png" class="img-fluid">  
+	<img src="../img/talking-hands/U.png" class="img-fluid">
 </div>
 
 <video width="960" height="540" controls>
 	<source src="Testing_R_and_U.mp4" type="video/mp4">
 </video>
 
+Modern:
+
+<div class="container">
+	<img src="../img/talking-hands/M_N.png" class="img-fluid">
+</div>
+
+Old:
+
+<div class="container">
+	<img src="../img/talking-hands/Old_M_N.png" class="img-fluid">
+</div>
+
 ## Experience
 
-
-
+This was my first time programming something for virtual/augmented reality and using a VR headset. Unlike a 2D screen, I was able to see how close or far an object is and physically move around them. This made setting up the UI interesting since it can not be too close to the user's face, but still appear over other objects in the scene. The Quest 3/3S hand tracking was also interesting to work with. Instead of keys presses and mouse clicks, I can use hand poses and motion to interact with the application.

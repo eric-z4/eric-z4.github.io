@@ -28,16 +28,10 @@ Talking Hands is a augmented reality app prototype that allows the user to type 
 
 The limited hand tracking of the Quest 3/3S made it difficult to implement certain letters in the ASL alphabet, such as R, U, M, and N. The headset could not track the crossed fingers for R, which made it seem like a U. This was resolved by having a collider appear behind the hand to let the user clarify which letter they are signing (see video below). The headset also could not track fingers that were obscured by the hand, especially for M and N. My group and I thought of tweaking the gestures to something that can be tracked more reliably and still be recognized as M or N. We decided to use the old signs for M and N instead, which was marginally better for tracking.
 
-<div class="container mt-4">
-	<div class="w-10">
-		<img src="../img/talking-hands/R.png" class="img-fluid">
-	</div>
-	<div class="w-10">
-		<img src="../img/talking-hands/U.png" class="img-fluid">  
-	</div>
-	<div class="w-10">
-		<img src="../img/talking-hands/M_N.png" class="img-fluid">  
-	</div>
+<div class="container mx-2">
+	<img src="../img/talking-hands/R.png" class="img-fluid">
+	<img src="../img/talking-hands/U.png" class="img-fluid">  
+	<img src="../img/talking-hands/M_N.png" class="img-fluid">  
 </div>
 
 <video width="960" height="540" controls>

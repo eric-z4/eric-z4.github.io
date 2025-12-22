@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Eric Zhou",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "https://github.com/eric-z4.png",
     "email": "ericzhou@hawaii.edu",
     "phone": "808-393-5943",
     "website": "https://eric-z4.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai`i. I am also pursuing a Creative Computational Media (CCM) Certificate. I expect to graduate in Fall, 2025.",
+    "summary": "I studied for a B.A. in Computer Science in the Department of Information and Computer Sciences and the Creative Computational Media (CCM) Certificate at the University of Hawai`i. I graduated in Fall 2025.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawai`i" },
     "profiles": [
       { "network": "github", "username": "eric-z4", "url": "https://github.com/eric-z4" },
